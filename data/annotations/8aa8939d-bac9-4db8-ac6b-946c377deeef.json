@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is my first annotation for Environment Texas Dr. Brooks Interview."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bd16b88d-b293-4a45-b4f6-5e2e229b9833"
+    }
+  ],
   "set": "Default",
   "event_id": "605471ef-3cdd-4819-93a5-1aee1d2cd855",
   "source_id": "b8a608c2-bb2f-4bba-9156-6ce2b7193637"
