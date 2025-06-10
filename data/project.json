@@ -1,1 +1,77 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"trentwintermeier","avatar_url":"https://avatars.githubusercontent.com/u/112954339?v=4","admin":true}],"project":{"github_org":"trentwintermeier","is_private":false,"title":"Project Title","description":"This is the description for my project","language":"en","slug":"project-title-without-spaces","creator":"trentwintermeier","authors":"","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[],"tags":{"tagGroups":[{"color":"#A3A3A3","category":"_uncategorized_"}],"tags":[{"category":"_uncategorized_","tag":"Text"},{"category":"_uncategorized_","tag":"Audio"},{"category":"_uncategorized_","tag":"Edward Brooks"},{"category":"_uncategorized_","tag":"Michael Lewis"}]},"created_at":"2025-06-09T20:17:35.085Z","updated_at":"2025-06-10T15:13:14.276Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"a480bba5-b75b-42bf-8cc4-59963807603d":{"content":[],"created_at":"2025-06-09T20:17:35.089Z","created_by":"trentwintermeier","title":"Project Title","updated_at":"2025-06-09T20:17:35.089Z","updated_by":"trentwintermeier","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["a480bba5-b75b-42bf-8cc4-59963807603d"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "trentwintermeier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112954339?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "trentwintermeier",
+    "is_private": false,
+    "title": "Project Title",
+    "description": "This is the description for my project",
+    "language": "en",
+    "slug": "project-title-without-spaces",
+    "creator": "trentwintermeier",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Edward Brooks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael Lewis"
+        }
+      ]
+    },
+    "created_at": "2025-06-09T20:17:35.085Z",
+    "updated_at": "2025-06-10T15:16:17.374Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "a480bba5-b75b-42bf-8cc4-59963807603d": {
+      "content": [],
+      "created_at": "2025-06-09T20:17:35.089Z",
+      "created_by": "trentwintermeier",
+      "title": "Project Title",
+      "updated_at": "2025-06-09T20:17:35.089Z",
+      "updated_by": "trentwintermeier",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "a480bba5-b75b-42bf-8cc4-59963807603d"
+  ]
+}
