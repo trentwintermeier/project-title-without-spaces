@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2025-06-10T14:52:13.897Z",
+  "created_by": "trentwintermeier",
+  "title": "Event development test",
+  "slug": "event-development-test",
+  "updated_at": "2025-06-10T14:52:13.897Z",
+  "updated_by": "trentwintermeier",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "80379c55-6774-4c9d-a942-f5a649fbd154"
+  }
+}
