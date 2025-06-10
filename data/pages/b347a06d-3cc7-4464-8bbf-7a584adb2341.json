@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2025-06-10T14:49:17.077Z",
+  "created_by": "trentwintermeier",
+  "title": "Dr. Brooks event development test",
+  "slug": "dr-brooks-event-development-test",
+  "updated_at": "2025-06-10T14:49:17.077Z",
+  "updated_by": "trentwintermeier",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b4373197-b083-410f-8cab-9729c8def9db"
+  }
+}
