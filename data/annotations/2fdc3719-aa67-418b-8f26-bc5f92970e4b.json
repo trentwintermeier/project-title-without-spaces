@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "test annotation "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5c41efb5-5d68-4c49-8f7f-4437fb82af87"
+    }
+  ],
   "set": "Default",
   "event_id": "80379c55-6774-4c9d-a942-f5a649fbd154",
   "source_id": "543f0224-e852-48fe-8a1a-ba57fc2591e0"
