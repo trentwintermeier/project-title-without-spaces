@@ -12,7 +12,7 @@
     "956d9306-3e87-4fb2-919b-ae70814110ac": {
       "label": "Dr. Brooks Test Event",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://youtu.be/C-5iQ_Xoc2c",
       "duration": 205,
       "caption_set": [],
@@ -36,6 +36,10 @@
   "label": "Dr. Brooks event development test",
   "created_at": "2025-06-10T14:49:16.860Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-06-10T14:49:16.860Z",
-  "updated_by": "trentwintermeier"
+  "updated_at": "2025-06-10T14:49:38.059Z",
+  "updated_by": "trentwintermeier",
+  "av_file_order": [
+    "563852df-69b9-414b-996b-d59a6fb35e71",
+    "956d9306-3e87-4fb2-919b-ae70814110ac"
+  ]
 }
