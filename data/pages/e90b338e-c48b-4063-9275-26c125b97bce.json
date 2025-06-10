@@ -9,24 +9,6 @@
       ]
     },
     {
-      "type": "Audio",
-      "uuid": "605471ef-3cdd-4819-93a5-1aee1d2cd855",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "start": 12,
-      "end": 60,
-      "file": "077087dc-55b4-47b7-974c-5e74c94374db",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -35,22 +17,37 @@
       ]
     },
     {
-      "type": "event-comparison",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+      "type": "grid",
+      "layout": [
+        4,
+        2
       ],
-      "event1": {
-        "uuid": "605471ef-3cdd-4819-93a5-1aee1d2cd855"
-      },
-      "event2": {
-        "uuid": "80379c55-6774-4c9d-a942-f5a649fbd154"
-      },
       "children": [
         {
-          "text": ""
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -106,10 +103,80 @@
       ]
     },
     {
-      "type": "horizontal-separator",
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -131,6 +198,6 @@
   "slug": "test-page",
   "created_at": "2025-06-10T15:08:52.449Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-06-10T15:08:52.449Z",
+  "updated_at": "2025-06-10T15:13:14.094Z",
   "updated_by": "trentwintermeier"
 }
