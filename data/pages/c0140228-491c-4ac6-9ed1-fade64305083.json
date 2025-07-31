@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2025-07-31T16:51:25.228Z",
+  "created_by": "trentwintermeier",
+  "title": "The Mike Wallace Interview",
+  "slug": "the-mike-wallace-interview",
+  "updated_at": "2025-07-31T16:51:25.228Z",
+  "updated_by": "trentwintermeier",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b6d7d373-cf4e-4331-8175-4e2b913e4a65"
+  }
+}
